@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>test_00003376.jpg</filename>
+	<path>/media/librazxc/_dde_data/Maskdata/JPEGImages/test_00003376.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>164</ymin>
+			<xmax>478</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>
